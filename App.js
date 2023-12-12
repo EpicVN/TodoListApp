@@ -102,6 +102,6 @@ const styles = StyleSheet.create({
     color: Colors.lightBlue,
     fontWeight: '600',
     fontSize: 14,
-    marginTop: 8
+    marginTop: 8,
   }
 });
